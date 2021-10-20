@@ -1,6 +1,15 @@
 {
-    "firstBoardTName" : "Todo",
-    "secondBoardName" : "In progress",
-    "thirdBoardName" : "In QA",
-    "fourthBoardName" : "Done"
+    "boards" : 
+        {
+            "firstBoardTName" : "Todo",
+            "secondBoardName" : "In progress",
+            "thirdBoardName" : "In QA",
+            "fourthBoardName" : "Done"
+        },
+    "lists" :
+        {
+            "list1" : "Stubbing network responses",
+            "list2" : "Changing parts of response data",
+            "list3" : "Intercepting"
+        }
 }

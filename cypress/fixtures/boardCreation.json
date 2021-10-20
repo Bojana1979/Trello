@@ -1,5 +1,5 @@
 {
-    "createBoard" : "div[id='new-board",
+    "createBoard" : "div[id='new-board']",
     "boardNameField" : "[data-cy='new-board-input']",
     "saveButton" : "[data-cy='new-board-create']"
 }
