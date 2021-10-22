@@ -1,0 +1,69 @@
+{
+    "name": "In QA",
+    "user": 0,
+    "id": 89346246613,
+    "starred": false,
+    "created": "2021-10-22",
+    "lists": [
+      {
+        "boardId": 89346246613,
+        "title": "Stubbing network responses",
+        "id": 29347053461,
+        "created": "2021-10-22"
+      },
+      {
+        "boardId": 89346246613,
+        "title": "Changing parts of response data",
+        "id": 83867646914,
+        "created": "2021-10-22"
+      },
+      {
+        "boardId": 89346246613,
+        "title": "Intercepting",
+        "id": 8875994435,
+        "created": "2021-10-22"
+      }
+    ],
+    "tasks": [
+      {
+        "boardId": 89346246613,
+        "description": "",
+        "completed": false,
+        "listId": 29347053461,
+        "title": "task1",
+        "id": 34660337261,
+        "created": "2021-10-22",
+        "deadline": "2021-10-25"
+      },
+      {
+        "boardId": 89346246613,
+        "description": "",
+        "completed": false,
+        "listId": 29347053461,
+        "title": "task2",
+        "id": 73652672746,
+        "created": "2021-10-22",
+        "deadline": "2021-10-25"
+      },
+      {
+        "boardId": 89346246613,
+        "description": "",
+        "completed": false,
+        "listId": 29347053461,
+        "title": "task3",
+        "id": 23047288094,
+        "created": "2021-10-22",
+        "deadline": "2021-10-25"
+      },
+      {
+        "boardId": 89346246613,
+        "description": "",
+        "completed": false,
+        "listId": 29347053461,
+        "title": "task4",
+        "id": 21625757338,
+        "created": "2021-10-22",
+        "deadline": "2021-10-25"
+      }
+    ]
+  }
