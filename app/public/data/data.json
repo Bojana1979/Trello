@@ -1,6 +1,12 @@
 {
   "boards": [],
   "tasks": [],
-  "users": [],
+  "users": [
+    {
+      "email": "bojana.sredojev@vivifyideas.com",
+      "password": "$2a$10$NNN/uw1Z8/MhERhN/O.Lz.9im/CxneewoL5C9NAtFIPwkEoaXKuEO",
+      "id": 1
+    }
+  ],
   "lists": []
 }
